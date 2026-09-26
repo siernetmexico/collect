@@ -1,37 +1,26 @@
 {
   "project_info": {
-    "project_number": "640412404956",
-    "firebase_url": "https://opendatakit-forks.firebaseio.com",
-    "project_id": "opendatakit-forks",
-    "storage_bucket": "opendatakit-forks.appspot.com"
+    "project_number": "341859462160",
+    "project_id": "vamos-fuerte-forms",
+    "storage_bucket": "vamos-fuerte-forms.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:640412404956:android:730483f389563845cb7819",
+        "mobilesdk_app_id": "1:341859462160:android:fe464aa0b528f87c002e95",
         "android_client_info": {
-          "package_name": "org.odk.collect.android"
+          "package_name": "mx.org.vamosfuerte.forms"
         }
       },
-      "oauth_client": [
-        {
-          "client_id": "640412404956-ag8do5nic02k70qr2k1a0mv3du8222hv.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
+      "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyA5tuKwVrlKEs-7iMSpdTmAy6qSH-w0lik"
+          "current_key": "AIzaSyAIPzDpTDvUDTo5DhIARtr5sxpeK7ZnSL0"
         }
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "640412404956-ag8do5nic02k70qr2k1a0mv3du8222hv.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
+          "other_platform_oauth_client": []
         }
       }
     }
